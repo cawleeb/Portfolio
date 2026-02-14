@@ -1,3 +1,8 @@
+---
+layout: page
+title: Snow Nav101.0 Safety in Snowy Mountain Terrain
+---   
+
 # Stay safe in those snowy mountains, no matter how you travel through them
 
 Heyo! This is Caleb (commonly prounouced Caw-leeb 😏). 
