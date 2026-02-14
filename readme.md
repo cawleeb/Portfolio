@@ -5,7 +5,7 @@
  - [Snow Nav101.0: Safety in Snowy Mountain Terrain](Fail-Til-Ya-Dont/Thoughts and prayers/Snow Nav101.0 Safety in Snowy Mountain Terrain.md)
  - [Snow Nav101.1: Intro To Backcountry Touring Gear and Technique]()
 
-[Set-up an On-Snow Lesson With Me To Learn More!](mailto:calebnorman01@://gmail.com[snow%20safety%20and/or%20backcountry%20touring].%0A%0AI%20am%20a%20[beginner,%20intermediate,%20advanced,%20or%20expert]%20skier.%0A%0AI%20have%20[none,%20some,%20most,%20or%20all]%20of%20the%20necessary%20safety%20and%20ski%20gear%20to%20begin%20backcountry%20touring%20[including%20beacon,%20shovel,%20and%20probe]%0Aand%20[touring%20boots,%20skis,%20bindings,%20and%20skins]%20to%20begin%20touring.)
+[Set-up an On-Snow Lesson With Me To Learn More!](<a href="mailto:calebnorman01@gmail.com?subject=Interested%20in%20a%20backcountry%20touring%20lesson%20from%20you!&body=Hello Cawleeb!, %0A I am interested in taking a lesson from you to learn more about [snow safety and/or backcountry touring]. %0A I am a [beginner, intermediate, advanced, or expert] skier. %0A I have [none, some, most, or all] of the necessary safety and ski gear to begin backcountry touring [including beacon, shovel, and probe] %0A and [touring boots, skis, bindings, and skins] to begin touring.">)
 
 
 - [Solving Information Psychosis By Tokenizing The World]()
